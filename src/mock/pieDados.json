@@ -1,0 +1,38 @@
+{
+    "data01": [
+        {
+            "name": "Bagarolo",
+            "value": 800
+        },
+        {
+            "name": "Bagarolo2",
+            "value": 1800
+        },
+        {
+            "name": "Bagarolo3",
+            "value": 500
+        },
+        {
+            "name": "Bagarolo4",
+            "value": 100
+        }
+    ],
+    "data02": [
+        {
+            "name": "Nacs1",
+            "value": 800
+        },
+        {
+            "name": "Nacs2",
+            "value": 1800
+        },
+        {
+            "name": "Nacs3",
+            "value": 800
+        },
+        {
+            "name": "Nacs4",
+            "value": 1100
+        }
+    ]
+}
